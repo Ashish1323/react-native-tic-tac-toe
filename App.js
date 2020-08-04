@@ -219,9 +219,12 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#FFF",
     alignItems: "center",
-    justifyContent: "center"
+    justifyContent: "center",
+    backgroundColor:"#DAE0E2"
   },
-  grid: {},
+  grid: {
+    backgroundColor:"#67E6DC"
+  },
   row: {
     flexDirection: "row"
   },
